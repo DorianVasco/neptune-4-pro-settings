@@ -8,8 +8,8 @@
       <label>PLA Black</label>
     </name>
     <version>11</version>
-    <GUID>0ff92885-617b-4144-a03c-9989872454bc</GUID>
-    <color_code>#a4a4a4</color_code>
+    <GUID>7add5b88-1ce8-4ca0-8d9f-683074e8ee94</GUID>
+    <color_code>#181818</color_code>
     <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
     <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
   </metadata>

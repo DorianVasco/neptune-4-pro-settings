@@ -4,12 +4,12 @@
     <name>
       <brand>Elegoo</brand>
       <material>PLA</material>
-      <color>Black</color>
+      <color>White</color>
       <label>PLA White</label>
     </name>
     <version>11</version>
-    <GUID>0ff92885-617b-4144-a03c-9989872454bc</GUID>
-    <color_code>#a4a4a4</color_code>
+    <GUID>dd9fc9f1-e322-483c-994e-b882a8cb073d</GUID>
+    <color_code>#eeeeee</color_code>
     <description>Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
     <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
   </metadata>
@@ -27,7 +27,7 @@
     <setting key="surface energy">100</setting>
     <machine>
       <machine_identifier manufacturer="ELEGOO" product="elegoo_neptune_4pro" />
-      <setting key="print temperature">215.0</setting>
+      <setting key="print temperature">220.0</setting>
       <setting key="heated bed temperature">50.0</setting>
       <setting key="cool_fan_speed_min">60</setting>
       <setting key="cool_min_layer_time_fan_speed_max">80</setting>
