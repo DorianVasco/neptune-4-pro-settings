@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material" xmlns:cura="http://www.ultimaker.com/cura" version="1.3">
+  <metadata>
+    <name>
+      <brand>Elegoo</brand>
+      <material>PLA</material>
+      <color>Black</color>
+      <label>PLA Black</label>
+    </name>
+    <version>12</version>
+    <GUID>b46edc40-36d8-4e94-9e4e-560c6d5cecc7</GUID>
+    <reference_material_id>pla</reference_material_id>
+    <color_code>#252524</color_code>
+    <description>	Fast, safe and reliable printing. PLA is ideal for the fast and reliable printing of parts and prototypes with a great surface quality.</description>
+    <adhesion_info>Print on bare glass. Use tape for cold build plates.</adhesion_info>
+    <cura:pva_compatible>True</cura:pva_compatible>
+  </metadata>
+  <properties>
+    <density>1.24</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="print temperature">215.0</setting>
+    <setting key="standby temperature">175.0</setting>
+    <setting key="heated bed temperature">50.0</setting>
+    <setting key="build volume temperature">28</setting>
+    <setting key="print cooling">100.0</setting>
+    <setting key="adhesion tendency">0</setting>
+    <setting key="surface energy">100</setting>
+    <setting key="retraction amount">0.8</setting>
+    <setting key="retraction speed">45.0</setting>
+  </settings>
+</fdmmaterial>
