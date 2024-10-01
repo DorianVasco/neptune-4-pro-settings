@@ -14,6 +14,10 @@ In this repository, you will find configuration files for the following software
     - program settings
     - material settings for Elegoo standard PLA
     - my personal printing profiles
+- **OrcaSlicer 2.2.0-beta**
+    - printer settings
+    - material settings
+    - printing profiles
 - **Neptune 4 Pro Klipper**
     - config.cfg with optimized settings like SCREW_TILT_CALCULATE and some custom macros
     - webcam.txt with basic cam settings
